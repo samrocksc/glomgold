@@ -1,0 +1,32 @@
+{
+  "name": "glomgold",
+  "version": "0.0.1",
+  "description": "Google Pub/Sub Library",
+  "main": "dist/index.js",
+  "dependencies": {
+    "@google-cloud/pubsub": "^2.12.0",
+    "debug": "^4.3.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.23.0",
+    "@typescript-eslint/parser": "^4.23.0",
+    "eslint": "^7.26.0",
+    "eslint-plugin-functional": "^3.2.1",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samrocksc/glomgold.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samrocksc/glomgold/issues"
+  },
+  "homepage": "https://github.com/samrocksc/glomgold#readme"
+}
